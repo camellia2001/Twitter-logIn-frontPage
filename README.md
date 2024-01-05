@@ -3,4 +3,5 @@ When You open Twitter for the first time then you have to sign in , So the front
 <h3>with HTML and CSS</h3>
 <br>
 <h1>OUTPUT-PIC</h1>
-![output](https://github.com/camellia2001/Twitter-logIn-frontPage/assets/126091895/ce7831f2-e683-4b2b-a541-84fad2c81cb3)
+
+![output](https://github.com/camellia2001/Twitter-logIn-frontPage/assets/126091895/85355d01-d8bc-48bf-bd33-9a82f788f8f9)
